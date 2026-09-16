@@ -121,9 +121,9 @@ export default function Home() {
         {!answered ? (
           <>
             <p className="mb-4 text-sm font-medium tracking-wide text-orange-200">
-              Төрсөн өдрийн мэнд хүргэе, хөөрхөн минь 🎂
+              Төрсөн өдрийн мэнд хүргэе, хөөрхөн минь 🎂 💋
             </p>
-            <h1 className="mb-4 font-serif text-4xl font-semibold leading-tight text-white sm:text-5xl">
+            <h1 className="mb-4 font-serif text-2xl font-semibold leading-tight text-white sm:text-5xl">
               Хайрыгаа маргааш {""}
               <span className="bg-gradient-to-r from-orange-300 via-pink-300 to-fuchsia-300 bg-clip-text italic text-transparent">
                 кинонд
